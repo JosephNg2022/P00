@@ -25,7 +25,7 @@ public class displayTest {
 	}
 
 	@Test
-	public void testDisplay() {
+	public void findMaxTest1() {
 		
 		System.out.println("This is the testcase for display");
 		String str1 = "Software Development Process";
